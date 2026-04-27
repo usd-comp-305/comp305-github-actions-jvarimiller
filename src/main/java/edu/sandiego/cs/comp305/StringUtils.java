@@ -2,7 +2,7 @@ package edu.sandiego.cs.comp305;
 
 public class StringUtils {
 
-    public StringUtils(){
+    private StringUtils(){
 
     }
 

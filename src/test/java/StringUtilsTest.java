@@ -17,6 +17,6 @@ class StringUtilsTest {
 
     @Test
     void testReverseStringWithOneCharacter() {
-        assertEquals("o", StringUtils.reverseString("a"));
+        assertEquals("o", StringUtils.reverseString("o"));
     }
 }
